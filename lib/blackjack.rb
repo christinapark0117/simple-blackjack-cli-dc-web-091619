@@ -1,5 +1,14 @@
+# have a card total of or very close to 21 but never exceeding 21
+# dealt two cards values between 1 - 11
+# "hit" get another card dealt, combination of 3 cards exceeds 21
+# you lose
+# "stay" keep what they have
+# if card does not exceed 21 they can stay forever.
+
+
+
 def welcome
-  # code #welcome here
+  puts "Welcome to the Blackjack Table"
 end
 
 def deal_card
